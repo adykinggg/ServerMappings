@@ -1,5 +1,15 @@
 [ 
     {
+        "id": "FightClub",
+        "name": "FightClub Practice",
+        "addresses": [
+            "fightclubpvp.eu"
+            "5.9.117.55:5004"
+        ]
+    },
+	
+[ 
+    {
         "id": "minehq",
         "name": "MineHQ Network",
         "addresses": [
